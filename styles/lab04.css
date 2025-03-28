@@ -32,7 +32,7 @@ h2 { color: rgb(0,128,128)}
 aside, footer { font-style: italic; }     
 
 /* Change font for all heading ellements */
-h1, h2, h3 { font-family: Arial; }
+h1, h2, h3 { font-family: Arial, sans-serif; }
 
 /* set boarder on table */
 table { border: 1px solid black; }
